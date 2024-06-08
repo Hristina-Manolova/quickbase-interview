@@ -1,0 +1,16 @@
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.PopulationService.csproj.AssemblyReference.cache
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.PopulationService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbas.59708BD3.Up2Date
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.PopulationService.dll.config
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.PopulationService.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.PopulationService.pdb
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.PopulationService.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.PopulationService.pdb

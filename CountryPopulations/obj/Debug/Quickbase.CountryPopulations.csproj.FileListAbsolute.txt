@@ -1,0 +1,2 @@
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.CountriesPopulation\obj\Debug\Quickbase.CountryPopulations.csproj.AssemblyReference.cache
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.CountriesPopulation\obj\Debug\Quickbase.CountryPopulations.csproj.CoreCompileInputs.cache

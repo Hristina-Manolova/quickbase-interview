@@ -1,0 +1,16 @@
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.Populations.dll.config
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.Populations.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\Quickbase.Populations.pdb
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.Populations.csproj.AssemblyReference.cache
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.Populations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbas.820CAADC.Up2Date
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.Populations.dll
+C:\Users\DELL\Workspace\HristinaManolova\Quickbase\quickbase-interview\Quickbase.StatService\obj\Debug\Quickbase.Populations.pdb

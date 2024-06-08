@@ -37,6 +37,7 @@ namespace CountryPopulations
                     .Select(pair => Tuple.Create(pair.Key, pair.Value)).ToList();
 
                 PrittyPrint(countryPopulations);
+                Console.ReadKey();
             }
             catch (NullReferenceException refEx)
             {

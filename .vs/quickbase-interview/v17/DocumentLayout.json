@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83F2D02C-DBA3-4804-8B1A-C73EF27E6ED6}|CountryPopulations\\CountryPopulations.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\countrypopulations\\countriypopulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F2D02C-DBA3-4804-8B1A-C73EF27E6ED6}|CountryPopulations\\CountryPopulations.csproj|solutionrelative:countrypopulations\\countriypopulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C90C34CB-007C-4445-86F1-1B3C82208F53}|PopulationServicesTests\\PopulationServicesTests.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationservicestests\\populationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C90C34CB-007C-4445-86F1-1B3C82208F53}|PopulationServicesTests\\PopulationServicesTests.csproj|solutionrelative:populationservicestests\\populationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{122D329C-96C0-4B0D-9E69-5E6689D81B50}|PopulationServices\\PopulationServices.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationservices\\abstractions\\ipopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{122D329C-96C0-4B0D-9E69-5E6689D81B50}|PopulationServices\\PopulationServices.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\populationservices\\abstractions\\ipopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{122D329C-96C0-4B0D-9E69-5E6689D81B50}|PopulationServices\\PopulationServices.csproj|solutionrelative:populationservices\\abstractions\\ipopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0E62E7-4F60-4C65-BB29-F2DCC1057FB8}|PopulationDatabaseTests\\PopulationDatabaseTests.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationdatabasetests\\dbpopulationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0E62E7-4F60-4C65-BB29-F2DCC1057FB8}|PopulationDatabaseTests\\PopulationDatabaseTests.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\populationdatabasetests\\dbpopulationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0E62E7-4F60-4C65-BB29-F2DCC1057FB8}|PopulationDatabaseTests\\PopulationDatabaseTests.csproj|solutionrelative:populationdatabasetests\\dbpopulationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationdatabase\\managers\\dbpopulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\populationdatabase\\managers\\dbpopulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|solutionrelative:populationdatabase\\managers\\dbpopulationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationdatabase\\services\\dbpopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\populationdatabase\\services\\dbpopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|solutionrelative:populationdatabase\\services\\dbpopulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83F2D02C-DBA3-4804-8B1A-C73EF27E6ED6}|CountryPopulations\\CountryPopulations.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\countrypopulations\\countriypopulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83F2D02C-DBA3-4804-8B1A-C73EF27E6ED6}|CountryPopulations\\CountryPopulations.csproj|solutionrelative:countrypopulations\\countriypopulations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|c:\\users\\dell\\workspace\\hristinamanolova\\quickbase\\quickbase-interview\\populationdatabase\\managers\\abstractions\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\populationdatabase\\managers\\abstractions\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0984DF57-36C1-4DED-BA9F-27D858A4A04D}|PopulationDatabase\\PopulationDatabase.csproj|solutionrelative:populationdatabase\\managers\\abstractions\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DbPopulationManager.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationDatabase\\Managers\\DbPopulationManager.cs",
               "RelativeDocumentMoniker": "PopulationDatabase\\Managers\\DbPopulationManager.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "PopulationDatabase\\Managers\\DbPopulationManager.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T17:07:12.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T17:07:12.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbPopulationServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationDatabaseTests\\DbPopulationServiceTests.cs",
               "RelativeDocumentMoniker": "PopulationDatabaseTests\\DbPopulationServiceTests.cs",
@@ -63,25 +62,24 @@
               "RelativeToolTip": "PopulationDatabaseTests\\DbPopulationServiceTests.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAAAEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T17:00:06.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T17:00:06.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PopulationServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationServicesTests\\PopulationServiceTests.cs",
               "RelativeDocumentMoniker": "PopulationServicesTests\\PopulationServiceTests.cs",
               "ToolTip": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationServicesTests\\PopulationServiceTests.cs",
               "RelativeToolTip": "PopulationServicesTests\\PopulationServiceTests.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAABPAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T17:00:52.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IPopulationService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationServices\\Abstractions\\IPopulationService.cs",
               "RelativeDocumentMoniker": "PopulationServices\\Abstractions\\IPopulationService.cs",
@@ -89,12 +87,11 @@
               "RelativeToolTip": "PopulationServices\\Abstractions\\IPopulationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T17:17:31.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T17:17:31.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DbPopulationService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\PopulationDatabase\\Services\\DbPopulationService.cs",
               "RelativeDocumentMoniker": "PopulationDatabase\\Services\\DbPopulationService.cs",
@@ -102,18 +99,17 @@
               "RelativeToolTip": "PopulationDatabase\\Services\\DbPopulationService.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAuwBwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T17:04:08.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T17:04:08.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CountriyPopulations.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\CountryPopulations\\CountriyPopulations.cs",
               "RelativeDocumentMoniker": "CountryPopulations\\CountriyPopulations.cs",
               "ToolTip": "C:\\Users\\DELL\\Workspace\\HristinaManolova\\Quickbase\\quickbase-interview\\CountryPopulations\\CountriyPopulations.cs",
               "RelativeToolTip": "CountryPopulations\\CountriyPopulations.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABQAAAAQAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T17:26:14.662Z",
               "EditorCaption": ""
@@ -128,8 +124,7 @@
               "RelativeToolTip": "PopulationDatabase\\Managers\\Abstractions\\IDbManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T17:16:53.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T17:16:53.116Z"
             }
           ]
         }
